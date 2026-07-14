@@ -1,144 +1,316 @@
-# 👋 Hi, I'm Mian Shoaib Hashim
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mian Shoaib Hashim
 
 <div align="center">
 
-### 🚀 Senior Mobile Application Developer | React Native Expert | Full Stack Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Mobile+Application+Developer;React+Native+%7C+Next.js+%7C+AI+Engineer;Building+Scalable+Cross-Platform+Applications;Modern+UI%2FUX+%7C+Performance+%7C+Cloud+Solutions" />
 
-Building scalable, high-performance mobile applications with modern UI/UX and clean architecture.
+<br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shoaibhashim786\&style=for-the-badge)](https://github.com/shoaibhashim786)
-[![GitHub followers](https://img.shields.io/github/followers/shoaibhashim786?style=for-the-badge)](https://github.com/shoaibhashim786)
+### 🚀 Senior Mobile Application Developer • React Native Expert • Next.js Developer • AI Integration Specialist
+
+<p>
+Building modern, scalable, AI-powered mobile & web applications with exceptional UI/UX and production-grade architecture.
+</p>
+
+<p>
+<a href="https://github.com/shoaibhashim786">
+<img src="https://komarev.com/ghpvc/?username=shoaibhashim786&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<a href="https://github.com/shoaibhashim786?tab=followers">
+<img src="https://img.shields.io/github/followers/shoaibhashim786?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/shoaibhashim786">
+<img src="https://img.shields.io/github/stars/shoaibhashim786?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-I'm a passionate software engineer specializing in **React Native**, **Android**, **iOS**, and **Full Stack Development**.
+I'm a passionate **Software Engineer** focused on building premium **Mobile**, **Web**, and **AI-powered** applications.
 
-I enjoy transforming complex business requirements into beautiful, scalable, and production-ready applications. My focus is on delivering premium user experiences while maintaining clean architecture, high performance, and maintainable code.
+I specialize in transforming complex business requirements into scalable, secure, and high-performance products with clean architecture and modern user experiences.
 
-* 📱 Building cross-platform mobile applications
-* ⚡ Performance optimization & smooth animations
-* 🎨 Modern UI/UX with responsive design
-* 🔒 Authentication, Payments & Security
-* ☁️ API Integration & Cloud Services
-* 🚀 App Store & Google Play deployment
+### What I do
 
----
-
-## 🛠 Tech Stack
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge\&logo=expo)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge\&logo=xcode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+- 📱 Cross-platform Mobile Development
+- 🌐 Full Stack Web Development
+- 🤖 AI-powered Applications & Integrations
+- 🎨 Modern UI/UX Design Systems
+- ⚡ Performance Optimization
+- 🔐 Authentication & Security
+- 💳 Payment Gateway Integration
+- ☁️ Cloud Infrastructure
+- 🚀 CI/CD & Production Deployment
 
 ---
 
-## 🚀 What I Build
+# 🧠 AI Expertise
 
-✨ Enterprise Mobile Applications
-
-💳 Payment & FinTech Solutions
-
-🏢 Business Management Systems
-
-🏠 Real Estate Platforms
-
-📊 ERP & CRM Applications
-
-🔔 Push Notifications
-
-📂 File & Media Management
-
-📍 Maps & Location Services
-
-📷 Camera & Document Scanning
-
-🔐 Authentication Systems
-
-☁️ Cloud Integrated Apps
+- 🤖 OpenAI GPT Integration
+- 🧠 Claude AI Integration
+- ✨ Gemini AI
+- 🦙 Local LLM Integration
+- 💬 AI Chat Applications
+- 📄 AI Document Processing
+- 🎙️ Speech to Text
+- 🔊 Text to Speech
+- 🖼️ AI Image Generation
+- 🔍 Vector Search
+- 📚 RAG Applications
+- ⚡ AI Automation Workflows
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Tech Stack
+
+## 📱 Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,javascript,androidstudio,swift,firebase"/>
+
+</p>
+
+- React Native
+- Expo
+- Android
+- iOS
+- Swift
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css"/>
+
+</p>
+
+- Next.js
+- React.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Redux Toolkit
+- React Query
+- Zustand
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase,firebase"/>
+
+</p>
+
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- GraphQL
+- Firebase
+- Supabase
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,sqlite"/>
+
+</p>
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+- Supabase Database
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,githubactions"/>
+
+</p>
+
+- AWS
+- Docker
+- GitHub Actions
+- Vercel
+- Netlify
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,xd"/>
+
+</p>
+
+---
+
+# 🚀 What I Build
+
+✅ Enterprise Mobile Applications
+
+✅ AI Integrated Applications
+
+✅ SaaS Platforms
+
+✅ FinTech & Payment Solutions
+
+✅ ERP Systems
+
+✅ CRM Platforms
+
+✅ Real Estate Applications
+
+✅ Healthcare Applications
+
+✅ E-Commerce Platforms
+
+✅ Inventory Management Systems
+
+✅ POS Solutions
+
+✅ HRMS
+
+✅ Booking Systems
+
+✅ Push Notifications
+
+✅ Maps & GPS
+
+✅ Camera & Document Scanner
+
+✅ Offline-first Applications
+
+✅ Cloud Sync Applications
+
+---
+
+# ⚡ Core Skills
+
+- Clean Architecture
+- SOLID Principles
+- MVVM
+- Scalable Folder Structure
+- Responsive UI
+- Glassmorphism UI
+- Dark & Light Themes
+- Native Module Integration
+- API Optimization
+- State Management
+- Secure Authentication
+- Google Login
+- Apple Login
+- Firebase Authentication
+- Performance Profiling
+- App Store Deployment
+- Google Play Deployment
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shoaibhashim786&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shoaibhashim786&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibhashim786&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibhashim786&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhashim786&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhashim786&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌟 Current Focus
+# 🏆 GitHub Trophies
 
-* 🚀 High-performance React Native applications
-* 📱 Premium Mobile UI/UX
-* ⚡ Performance Optimization
-* 🤖 AI-powered mobile experiences
-* ☁️ Cloud-based architectures
-* 🔒 Secure Authentication Systems
-* 💳 Payment Integrations
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shoaibhashim786&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 📈 Contribution Graph
 
-💼 Open to exciting opportunities, freelance projects, and collaborations.
+<p align="center">
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌐 Portfolio: https://yourwebsite.com
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibhashim786&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 AI Agents
+- MCP Servers
+- LangChain
+- LangGraph
+- RAG Architecture
+- Supabase Edge Functions
+- Next.js 15
+- React Native New Architecture
+- Expo SDK
+- AI Automation
+- Multi-Agent Systems
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/shoaibhashim786">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving my repositories a star!
+## 💻 "Building software that is scalable, beautiful, and powered by AI."
 
-*"Code. Create. Innovate. Repeat."* 🚀
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </div>
