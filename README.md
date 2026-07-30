@@ -65,28 +65,6 @@
   </a>
 </p>
 
-<br><br>
-
-### 📊 **Performance & Tech Analytics**
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibhashim786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="85%" alt="GitHub Performance Stats" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibhashim786&theme=tokyonight&hide_border=true" width="85%" alt="Streak Stats" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhashim786&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="85%" alt="Top Languages Analytics" />
-</p>
-
 </div>
 
 ---
