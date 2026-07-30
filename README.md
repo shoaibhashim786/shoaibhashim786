@@ -8,7 +8,7 @@
 
 <br><br>
 
-<!-- Adjusted Profile Badges -->
+<!-- Profile Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/LIVE_PROFILE_VIEWS-2.2K%2B-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   <img src="https://img.shields.io/badge/TOTAL_COMMITS-3%2C236-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
@@ -57,21 +57,34 @@
 
 <div align="center">
 
-### 📈 **Live Contribution & Activity Graph**
+### 📈 **High-Scale Live Contribution & Activity Graph**
+<br>
 <p align="center">
   <a href="https://github.com/shoaibhashim786">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibhashim786&theme=react-dark&hide_border=true&area=true&color=8b5cf6&height=320" alt="Shoaib's Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibhashim786&theme=react-dark&hide_border=true&area=true&color=8b5cf6&line=8b5cf6&point=ec4899&height=420" alt="Shoaib's High Activity Graph" width="100%" />
   </a>
+</p>
+
+<br><br>
+
+### 📊 **Performance & Tech Analytics**
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibhashim786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="85%" alt="GitHub Performance Stats" />
 </p>
 
 <br>
 
-### 📊 **Performance & Tech Analytics**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibhashim786&theme=tokyonight&hide_border=true" width="85%" alt="Streak Stats" />
+</p>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibhashim786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhashim786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhashim786&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="85%" alt="Top Languages Analytics" />
 </p>
 
 </div>
