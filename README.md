@@ -8,13 +8,16 @@
 
 <br><br>
 
-<!-- Impressive High Stat Badges -->
+<!-- Adjusted Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LIVE_PROFILE_VIEWS-24.8K%2B-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/TOTAL_COMMITS-3%2C450%2B-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/STARS_EARNED-850%2B-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-1.2K%2B-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/GLOBAL_RANK-TOP_1%25-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Rank" />
+  <img src="https://img.shields.io/badge/LIVE_PROFILE_VIEWS-2.2K%2B-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/TOTAL_COMMITS-3%2C236-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+  <a href="https://github.com/shoaibhashim786">
+    <img src="https://img.shields.io/github/stars/shoaibhashim786?affiliations=OWNER&style=for-the-badge&color=f59e0b&label=STARS" alt="Stars" />
+  </a>
+  <a href="https://github.com/shoaibhashim786?tab=followers">
+    <img src="https://img.shields.io/github/followers/shoaibhashim786?style=for-the-badge&logo=github&color=ec4899&label=FOLLOWERS" alt="Followers" />
+  </a>
 </p>
 
 </div>
@@ -27,25 +30,21 @@
 
 <table border="0" width="100%">
   <tr>
-    <td align="center" width="20%">
-      <h2>👀 24,800+</h2>
+    <td align="center" width="25%">
+      <h2>👀 2.2K+</h2>
       <p><b>Profile Views</b></p>
     </td>
-    <td align="center" width="20%">
-      <h2>💻 3,450+</h2>
-      <p><b>Annual Commits</b></p>
+    <td align="center" width="25%">
+      <h2>💻 3,236</h2>
+      <p><b>Total Commits</b></p>
     </td>
-    <td align="center" width="20%">
-      <h2>⭐ 850+</h2>
-      <p><b>Stars Earned</b></p>
+    <td align="center" width="25%">
+      <h2>⭐ Actual</h2>
+      <p><b>GitHub Stars</b></p>
     </td>
-    <td align="center" width="20%">
-      <h2>🔥 142 Days</h2>
-      <p><b>Max Streak</b></p>
-    </td>
-    <td align="center" width="20%">
-      <h2>🚀 Top 1%</h2>
-      <p><b>Global Developer Rank</b></p>
+    <td align="center" width="25%">
+      <h2>👥 Actual</h2>
+      <p><b>Followers</b></p>
     </td>
   </tr>
 </table>
