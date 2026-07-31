@@ -39,12 +39,12 @@
       <p><b>Total Commits</b></p>
     </td>
     <td align="center" width="25%">
-      <h2>⭐ Actual</h2>
-      <p><b>GitHub Stars</b></p>
+      <h2>⭐ Starts</h2>
+      <p><b>3</b></p>
     </td>
     <td align="center" width="25%">
-      <h2>👥 Actual</h2>
-      <p><b>Followers</b></p>
+      <h2>👥 Followers</h2>
+      <p><b>1</b></p>
     </td>
   </tr>
 </table>
