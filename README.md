@@ -39,7 +39,7 @@
       <p><b>Total Commits</b></p>
     </td>
     <td align="center" width="25%">
-      <h2>⭐ Starts</h2>
+      <h2>⭐ Stars</h2>
       <p><b>3</b></p>
     </td>
     <td align="center" width="25%">
