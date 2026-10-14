@@ -38,32 +38,9 @@
       <h2>💻 3,236</h2>
       <p><b>Total Commits</b></p>
     </td>
-    <td align="center" width="25%">
-      <h2>⭐ Stars</h2>
-      <p><b>3</b></p>
-    </td>
-    <td align="center" width="25%">
-      <h2>👥 Followers</h2>
-      <p><b>1</b></p>
-    </td>
+ 
   </tr>
 </table>
-
-</div>
-
----
-
-# 🏆 **GitHub Achievements & Activity**
-
-<div align="center">
-
-### 📈 **High-Scale Live Contribution & Activity Graph**
-<br>
-<p align="center">
-  <a href="https://github.com/shoaibhashim786">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibhashim786&theme=react-dark&hide_border=true&area=true&color=8b5cf6&line=8b5cf6&point=ec4899&height=420" alt="Shoaib's High Activity Graph" width="100%" />
-  </a>
-</p>
 
 </div>
 
