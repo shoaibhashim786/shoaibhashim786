@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=950&color=8B5CF6&lines=Full-Stack+Software+Engineer;React+Native+%7C+Android+%26+iOS;Enterprise+Apps+%7C+SAP+Business+One;AI+Integrations+%7C+RAG+%7C+Automation;From+Product+Design+to+Production+Delivery" alt="Professional specialties" />
 
-<p>
+<!-- <p>
   <a href="https://github.com/shoaibhashim786"><img src="https://img.shields.io/github/followers/shoaibhashim786?style=for-the-badge&logo=github&label=Followers&color=8b5cf6" alt="GitHub followers" /></a>
   <a href="https://github.com/shoaibhashim786?tab=repositories"><img src="https://img.shields.io/github/stars/shoaibhashim786?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f59e0b" alt="GitHub stars" /></a>
   <a href="https://deepmindcraft.online"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+</p> -->
 
 </div>
 
